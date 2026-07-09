@@ -19,5 +19,5 @@ Documento completo com Plano de Testes e 12 Casos de Teste documentados.
 
 ---
 
-**Autora:** [Seu Nome]  
+**Autora:** Késsia Oliveira 
 **Data:** Julho 2026
